@@ -1,1 +1,8 @@
-# Sistemas-Dsitribuidos_G3-Proyecto-FronEnd
+---
+Título del proyecto: Minimarket de barrio
+Autor: G3 - UNMSM
+Curso: Sistemas Distribuidos
+Docente: Marcos Sotelo Bedón
+---
+
+
